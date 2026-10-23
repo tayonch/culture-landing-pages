@@ -1,0 +1,191 @@
+*{
+  
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+li{
+    list-style: none;
+}
+nav{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+
+
+}
+a{
+    text-decoration:none;
+}
+.container{
+    width: 1320px;
+    margin: auto;
+}
+.menubar ul{
+    display: flex;
+    gap: 60px;
+
+}
+.banner{
+  background-image: url(../images/banner.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ height: 1150px;
+  
+}
+ .bannerpart h5{
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 7px;
+    color: #FFC178;
+    padding-top: 380px;
+    
+    
+}
+.bannerpart h1{
+
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 100px;
+
+    color: #FFFFFF;
+    
+}
+.bannerpart h4{
+    font-size: 88px;
+    font-weight: 400;
+    line-height: 100px;
+    color: #FFFFFF;
+}
+.secondpart{
+    display: flex;
+    color: white;
+}
+.TENGGARA{
+    padding-top:239px  ;
+}
+.nusa h5{
+    color: #FBD784;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 6px;
+}
+.nusa h2{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 64px;
+    font-style: bold;
+    line-height: 100%;
+    padding-top: 9px;
+    
+
+}
+.nusa{
+    padding-left: 132px;
+}
+.nusa p{
+    padding-top: 17px;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 32px;
+
+
+}
+.nusa a{
+    color: red;
+    padding-top: 67px;
+}
+.partthree{
+    background-image: url(../images/bormo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 967px;
+    padding: 560px 194px 33px;
+}
+.bormo{
+    padding-top: 260px;
+}
+.partthree h5{
+    color: #FBD784;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 100%;
+        letter-spacing: 6px;
+        text-align: center;
+    }
+.partthree p{
+    padding-top: 17px;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 32px;
+
+
+}
+.partthree h2{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 64px;
+    font-style: bold;
+    line-height: 100%;
+    padding-top: 9px;
+    
+
+}
+.partthree a{
+    color: red;
+    
+}
+.partfour{
+    display: flex;
+    color: white;
+}
+.culture{
+    padding-top:239px  ;
+}
+.indo h5{
+    color: #FBD784;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 6px;
+}
+.indo h2{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 64px;
+    font-style: bold;
+    line-height: 100%;
+    padding-top: 9px;
+    
+
+}
+.partfour{
+    /* padding: 413px 33px 0px 296px; */
+}
+.indo p{
+    padding-top: 17px;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 32px;
+
+
+}
+.indo a{
+    color: red;
+    padding-top: 67px;
+}
